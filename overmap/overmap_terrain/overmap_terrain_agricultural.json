@@ -1,0 +1,18 @@
+[
+  {
+    "type": "overmap_terrain",
+    "id": [ "farm_1_a_silo_0", "farm_1_a_silo_1", "farm_1_a_silo_2" ],
+    "name": "silo",
+    "sym": "O",
+    "color": "brown",
+    "see_cost": 2
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "farm_1_a_silo_3",
+    "name": "silo cap",
+    "sym": "O",
+    "color": "brown",
+    "see_cost": 2
+  }
+]
