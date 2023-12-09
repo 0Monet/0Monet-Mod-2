@@ -18,17 +18,29 @@
   {
     "type": "overmap_terrain",
     "id": "farm_1_b_greenhouse",
+    "copy-from": "generic_rural_building",
     "name": "greenhouse",
-    "sym": "o",
-    "color": "brown",
-    "see_cost": 5
+    "sym": "o"
   },
   {
     "type": "overmap_terrain",
     "id": "farm_1_b_greenhouse_roof",
+    "copy-from": "generic_rural_building",
     "name": "greenhouse roof",
-    "sym": "o",
-    "color": "brown",
-    "see_cost": 5
+    "sym": "o"
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "farm_1_c_chicken_coop",
+    "copy-from": "generic_rural_building",
+    "name": "chicken coop",
+    "sym": "o"
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "farm_1_c_chicken_coop_roof",
+    "copy-from": "generic_rural_building",
+    "name": "chicken coop roof",
+    "sym": "o"
   }
 ]
