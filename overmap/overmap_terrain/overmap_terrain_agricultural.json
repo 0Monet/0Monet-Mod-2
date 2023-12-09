@@ -14,5 +14,21 @@
     "sym": "O",
     "color": "brown",
     "see_cost": 2
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "farm_1_b_greenhouse",
+    "name": "greenhouse",
+    "sym": "o",
+    "color": "brown",
+    "see_cost": 5
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "farm_1_b_greenhouse_roof",
+    "name": "greenhouse roof",
+    "sym": "o",
+    "color": "brown",
+    "see_cost": 5
   }
 ]

@@ -24,5 +24,29 @@
     "city_sizes": [ 1, -1 ],
     "occurrences": [ 0, 3 ],
     "flags": [ "CLASSIC", "FARM", "ELECTRIC_GRID" ]
+  },
+  {
+    "type": "overmap_special",
+    "id": "Farm_b",
+    "overmaps": [
+      { "point": [ 0, 0, 0 ], "overmap": "farm_3_north" },
+      { "point": [ 1, 0, 0 ], "overmap": "farm_2_north" },
+      { "point": [ 2, 0, 0 ], "overmap": "farm_1_b_greenhouse_north" },
+      { "point": [ 2, 0, 1 ], "overmap": "farm_1_b_greenhouse_roof_north" },
+      { "point": [ 0, 1, 0 ], "overmap": "farm_6_north" },
+      { "point": [ 1, 1, 0 ], "overmap": "farm_5_north" },
+      { "point": [ 2, 1, 0 ], "overmap": "farm_4_north" },
+      { "point": [ 0, 2, 0 ], "overmap": "farm_9_north" },
+      { "point": [ 1, 2, 0 ], "overmap": "farm_8_north" },
+      { "point": [ 2, 2, 0 ], "overmap": "farm_7_north" },
+      { "point": [ 0, 0, 1 ], "overmap": "farm_3_roof_north" },
+      { "point": [ 1, 0, 1 ], "overmap": "farm_2_roof_north" }
+    ],
+    "connections": [ { "point": [ 1, -1, 0 ], "connection": "local_road", "from": [ 1, 0, 0 ] } ],
+    "locations": [ "field" ],
+    "city_distance": [ 5, 40 ],
+    "city_sizes": [ 1, -1 ],
+    "occurrences": [ 0, 3 ],
+    "flags": [ "CLASSIC", "FARM", "ELECTRIC_GRID" ]
   }
 ]
