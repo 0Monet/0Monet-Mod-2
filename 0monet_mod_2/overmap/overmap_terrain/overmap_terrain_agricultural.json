@@ -1,0 +1,86 @@
+[
+  {
+    "type": "overmap_terrain",
+    "id": [
+      "farm_a_1",
+      "farm_a_4",
+      "farm_a_5",
+      "farm_a_6",
+      "farm_a_7",
+      "farm_a_8",
+      "farm_a_9"
+    ],
+    "copy-from": "generic_rural_building",
+    "name": "farm field"
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "farm_a_2",
+    "copy-from": "generic_rural_building",
+    "name": "farm house",
+    "sym": "^"
+  },
+  {
+    "type": "overmap_terrain",
+    "id": [ "farm_a_2_roof" ],
+    "copy-from": "generic_rural_building",
+    "name": "farm house roof",
+    "sym": "^"
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "farm_a_3",
+    "copy-from": "generic_rural_building",
+    "name": "farm barn"
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "farm_a_3_roof",
+    "copy-from": "farm_3",
+    "name": "farm barn roof"
+  },
+  {
+    "type": "overmap_terrain",
+    "id": [ "farm_b_1_silo_0", "farm_b_1_silo_1", "farm_b_1_silo_2" ],
+    "name": "silo",
+    "sym": "O",
+    "color": "brown",
+    "see_cost": 2
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "farm_b_1_silo_3",
+    "name": "silo cap",
+    "sym": "O",
+    "color": "brown",
+    "see_cost": 2
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "farm_c_1_greenhouse",
+    "copy-from": "generic_rural_building",
+    "name": "greenhouse",
+    "sym": "o"
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "farm_c_1_greenhouse_roof",
+    "copy-from": "generic_rural_building",
+    "name": "greenhouse roof",
+    "sym": "o"
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "farm_d_1_chicken_coop",
+    "copy-from": "generic_rural_building",
+    "name": "chicken coop",
+    "sym": "o"
+  },
+  {
+    "type": "overmap_terrain",
+    "id": "farm_d_1_chicken_coop_roof",
+    "copy-from": "generic_rural_building",
+    "name": "chicken coop roof",
+    "sym": "o"
+  }
+]
