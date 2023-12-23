@@ -4,5 +4,11 @@
     "id": "Farm",
     "overmaps": [  ],
     "occurrences": [ 0, 0 ]
+  },
+  {
+    "type": "overmap_special",
+    "id": "ranch_camp",
+    "overmaps": [  ],
+    "occurrences": [ 0, 0 ]
   }
 ]
