@@ -386,11 +386,11 @@
       "rows": [
         "                        ",
         "   IIII  ####W###W###   ",
-        " III//III#____rrr___#   ",
-        "II//////II(________s#   ",
-        "I////////A_________s#   ",
-        "II//////II(________s#   ",
-        " III//III#__________W   ",
+        " III__III#____rrr___#   ",
+        "II______II(________s#   ",
+        "I________A_________s#   ",
+        "II______II(________s#   ",
+        " III__III#__________W   ",
         "   IIII  #_______O__#   ",
         "      <  ####MMMM####   ",
         "                 O      ",
@@ -409,7 +409,7 @@
         " F  DDDDDDDDDDDDDDDD  F ",
         "FF                    F "
       ],
-      "terrain": { "I": [ "t_wall_metal" ], "<": "t_ladder_up", "(": "t_splitrail_fence_h", "/": "t_dirt" },
+      "terrain": { "I": [ "t_wall_metal" ], "<": "t_ladder_up", "(": "t_splitrail_fence_h" },
       "items": { "r": { "item": "farming_tools", "chance": 25 } },
       "sealed_item": { "D": { "item": { "item": "seed_corn" }, "furniture": "f_plant_seedling" } },
       "place_item": [
@@ -431,11 +431,11 @@
       "rows": [
         "                        ",
         "   2222  ............   ",
-        " 222  222............   ",
-        "22      22...........   ",
-        "2        2...........   ",
-        "22      22...........   ",
-        " 222  222............   ",
+        " 222//222............   ",
+        "22//////22...........   ",
+        "2////////2...........   ",
+        "22//////22...........   ",
+        " 222//222............   ",
         "   2222  ............   ",
         "    <#>  ............   ",
         "                        ",
@@ -455,7 +455,7 @@
         "                        "
       ],
       "palettes": [ "roof_palette" ],
-      "terrain": { ".": "t_shingle_flat_roof", "2": "t_wall_metal", "<": "t_ladder_up", ">": "t_ladder_down", "#": "t_grate" }
+      "terrain": { ".": "t_shingle_flat_roof", "2": "t_wall_metal", "<": "t_ladder_up", ">": "t_ladder_down", "#": "t_grate", "/": "t_open_air_rooved" }
     }
   },
   {
@@ -467,11 +467,11 @@
       "rows": [
         "                        ",
         "   2222                 ",
-        " 222  222               ",
-        "22      22              ",
-        "2        2              ",
-        "22      22              ",
-        " 222  222               ",
+        " 222//222               ",
+        "22//////22              ",
+        "2////////2              ",
+        "22//////22              ",
+        " 222//222               ",
         "   2222                 ",
         "    >#<                 ",
         "                        ",
@@ -491,7 +491,7 @@
         "                        "
       ],
       "palettes": [ "roof_palette" ],
-      "terrain": { "2": "t_wall_metal", "<": "t_ladder_up", ">": "t_ladder_down", "#": "t_grate" }
+      "terrain": { "2": "t_wall_metal", "<": "t_ladder_up", ">": "t_ladder_down", "#": "t_grate", "/": "t_open_air_rooved" }
     }
   },
   {
