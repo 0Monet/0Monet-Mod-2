@@ -1,7 +1,7 @@
 [
   {
     "type": "palette",
-    "id": "ranch_camp",
+    "id": "0_ranch_camp",
     "terrain": {
       " ": "t_floor",
       "#": "t_dirtmound",
@@ -41,7 +41,6 @@
       "k": "t_floor",
       "n": "t_floor",
       "o": "t_column",
-      "(": "t_dirt",
       "r": "t_dirtfloor",
       "s": "t_sidewalk",
       "t": "t_floor",
@@ -58,7 +57,8 @@
       "<": "t_ladder_up",
       ">": "t_ladder_down",
       "R": "t_floor",
-      "@": "t_floor"
+      "@": "t_floor",
+      "(": "t_dirtfloor"
     },
     "furniture": {
       "@": "f_bed",
