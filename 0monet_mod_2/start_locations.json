@@ -1,0 +1,8 @@
+[
+  {
+    "type": "start_location",
+    "id": "sloc_farm_survivalist",
+    "name": "Farm",
+    "terrain": [ "farm_a_2" ]
+  }
+]
